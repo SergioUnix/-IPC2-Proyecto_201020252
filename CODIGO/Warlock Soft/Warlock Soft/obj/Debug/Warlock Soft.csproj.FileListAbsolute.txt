@@ -1,0 +1,20 @@
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\roslyn\csc.exe
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\roslyn\vbc.exe
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\roslyn\VBCSCompiler.exe
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\Warlock Soft.dll.config
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\Warlock Soft.dll
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\Warlock Soft.pdb
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\obj\Debug\Warlock Soft.csprojResolveAssemblyReference.cache
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\obj\Debug\Warlock Soft.dll
+C:\Users\SergioAriel\SkyDrive\Unix_OneDrive\Diciembre 2017\Documentacion\CODIGO\Warlock Soft\Warlock Soft\obj\Debug\Warlock Soft.pdb
